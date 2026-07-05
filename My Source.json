@@ -1,0 +1,22 @@
+{
+"name": 
+"My Example Source",
+"subtitle": 
+"A source for all of my apps",
+"description": 
+"Welcome to my source! Here you'll find all of my apps.",
+"iconURL": 
+"https://i.imgur.com/pqIZoZo.jpeg",
+"website": 
+"https://altstudio.app",
+"patreonURL": 
+"",
+"tintColor": 
+"",
+"featuredApps": 
+[
+"com.chillingo.cuttheropehd"
+],
+"headerURL": 
+"https://i.imgur.com/nhHq9ly.png"
+}
